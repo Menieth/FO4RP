@@ -1,53 +1,53 @@
 {100}{}{Leather Armor}
-{101}{}{Your main clothing is leather. Artfully crafted from tanned brahmin hide.}
+{101}{}{Your basic all leather apparel. Finely crafted from tanned leather.}
 {200}{}{Metal Armor}
-{201}{}{Armor roughly formed from polished metal plates.}
+{201}{}{Polished metal plates, crudely forming a suit of armor.}
 {300}{}{Power Armor}
-{301}{}{T-51b high-tech autonomous armor. It is powered by a nuclear microreactor with a fuel reserve of one hundred years.}
+{301}{}{T-51b high-tech self-contained armor. Powered by a micro-fusion reactor, with enough fuel to last a hundred years.}
 {400}{}{Knife}
-{401}{}{Sharp piercing-cutting weapon.}
+{401}{}{A sharp-bladed cutting and stabbing weapon.}
 {500}{}{Club}
 {501}{}{Military or police baton made of sturdy wood.}
 {600}{}{Sledgehammer}
-{601}{}{A large hammer with a massive hilt. A very popular weapon among the muscular types.}
+{601}{}{A large hammer with a massive hilt. A very popular among the muscular types.}
 {700}{}{Spear}
-{701}{}{A razor-sharp weapon. The shaft is wooden and the head is made of forged steel.}
+{701}{}{A razor-sharp weapon. The shaft is wooden and the tip is made of forged steel.}
 {800}{}{Colt 6520}
-{801}{}{10mm Colt 6520 self-loading pistol. Each time you pull the trigger, the weapon automatically reloads until the magazine is empty. Single shots only. Powerful 10mm rounds are used.}
+{801}{}{10mm Colt 6520 autoloading pistol. Each time you pull the trigger, the weapon automatically reloads until the magazine is empty. Single shots only. Powerful 10mm rounds are used.}
 {900}{}{10mm Submachine Gun}
 {901}{}{H&K MP9 Submachine Gun (10mm model). Medium-sized SMG with single-shot and burst-fire capability.}
 {1000}{}{Hunting Rifle}
-{1001}{}{Colt Rangemaster semi-automatic gun in 0.223 caliber. Single shots only.}
+{1001}{}{Colt Rangemaster 0.223 caliber semi-automatic rifle. Single shots only.}
 {1100}{}{Flamethrower}
-{1101}{}{Torch-450 model flamethrower. Shoots out in short jets of incredibly hot burning liquid. It requires special fuel to function.}
+{1101}{}{Torch-450 model flamethrower. Fires a short spray of extremely hot, flamable liquid. Requires specialized fuel to work properly.}
 {1200}{}{Minigun}
-{1201}{}{Rockwell's personal minigun CZ53. Multi-barreled machine gun that fires 5mm rounds at over 60,000 rounds per minute.}
+{1201}{}{Rockwell's CZ53 personal minigun. Multi-barreled machine gun that fires 5mm rounds at over 60,000 rounds per minute.}
 {1300}{}{Rocket Launcher}
-{1301}{}{Superbazooka Rockwell Rocket launcher Launcher. Equipped with a chic 3-pound trigger. Fires armor-piercing or explosive rockets.}
+{1301}{}{Superbazooka Rockwell Rocket Launcher. Equipped with the deluxe 3-pound trigger. Fires armor-piercing or explosive rockets.}
 {1400}{}{Explosive Rocket}
 {1401}{}{A rocket equipped with a powerful explosive warhead.}
 {1402}{}{Armor-piercing missile.}
 {1500}{}{Plasma Rifle}
-{1501}{}{P94 Winchester Plasma Rifle. An industrial-era energy weapon that fires heated plasma through a superconducting barrel. Power is supplied by nuclear microreactors.}
+{1501}{}{P94 Winchester Plasma Rifle. An industrial-grade energy weapon that fires heated plasma through a superconducting barrel. Powered by Micro Fusion Cells.}
 {1600}{}{Laser Pistol}
-{1601}{}{1000-watt laser pistol. Civilian model - reduced power compared to military or police models. Uses small batteries.}
+{1601}{}{Wattz 1000 Laser pistol. Civilian model with reduced power compared to military or police models. Uses small energy cells.}
 {1700}{}{Combat Armor}
-{1701}{}{High-tech armor made from advanced protective polymers. Mass produced for the needs of the US Army.}
+{1701}{}{High-tech armor made out of advanced defensive polymers. Mass produced for the needs of the US Army.}
 {1702}{}{Green}
-{1800}{}{Desert Eagle}
-{1801}{}{Ancient Desert Eagle 0.44 Magnum. Thanks to feature films of the late twentieth century, it became the most popular pistol of all time.}
-{1900}{}{Stone}
-{1901}{}{This is a stone. The "Granite" corporation model is an improved version.}
+{1800}{}{Desert Eagle 0.44}
+{1801}{}{Ancient Desert Eagle 0.44 Magnum pistol. Interest in late 20th century films made this one of the most popular handguns of all times.}
+{1900}{}{Rock}
+{1901}{}{This is a stone. The "Granite-Inc." model is an upgraded version.}
 {2000}{}{Crowbar}
-{2001}{}{A very sturdy and heavy metal object specially designed for the principle of leverage. Or for a good blow to someone's head.}
-{2100}{}{Brass knuckles}
+{2001}{}{A very solid and heavy piece of metal, specially designed to exert leverage. Or for a good blow to someone's head.}
+{2100}{}{Brass Knuckles}
 {2101}{}{A sturdy brass knuckle made of steel. Protects the hand and provides more damage in melee combat.}
-{2200}{}{14mm pistol}
-{2201}{}{14mm ZIG-Sauer automatic pistol. Large, single-shot weapon of excellent quality.}
+{2200}{}{14mm Pistol}
+{2201}{}{14mm Sig-Sauer automatic pistol. Large, single-shot weapon of excellent quality.}
 {2300}{}{Assault Rifle}
-{2301}{}{5mm AK-112 assault rifle. An old military model that fell out of use around the time of the war. Can fire single shots or fire in burst. Uses high-speed charges of 5 mm caliber.}
+{2301}{}{5mm AK-112 assault rifle. An old military model that fell out of use around the time of the war. Can fire single shots or in burst. Uses high velocity 5 mm caliber rounds.}
 {2400}{}{Plasma Pistol}
-{2401}{}{Glock 86 Plasma Pistol. Designed by the AI ??of Gaston Glock. Shoots out a small charge of plasma heated to the limit. Powered by small batteries.}
+{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by small energy cells.}
 {2500}{}{Frag Grenade}
 {2501}{}{Common frag grenade. Contains a small amount of high explosive. Most of the dangerous fragments are formed directly from the shell of the grenade. Explodes on impact.}
 {2600}{}{Plasma Grenade}
@@ -621,7 +621,7 @@
 {30200}{}{Gecko Disc}
 {30201}{}{The label on this disc reads "Gecko Economic Data". The technical graphs, tables, and formulas are hard to figure out, but most of the time it seems to be listing the benefits of the alliance between Vault City and Gecko.}
 {30300}{}{Reactor Disk}
-{30301}{}{The label on this disc reads "Gecko Reactor Operational Data". This disc contains a sequence of numbers that tell you nothing. ÕÓ Á‰ÂÒ¸ ˇ‚ÌÓ ÏÌÓ„Ó ËÌÙÓÏ‡ˆËË Ë, ‰ÓÎÊÌÓ ·˚Ú¸, ÓÌ‡ ‰Îˇ ÍÓ„Ó-ÌË·Û‰¸ Ó˜ÂÌ¸ ‚‡ÊÌ‡ Í‡ÍËÏ-ÌË·Û‰¸ Ó·‡ÁÓÏ.}
+{30301}{}{The label on this disc reads "Gecko Reactor Operational Data". This disc contains a sequence of numbers that tell you nothing. √ç√Æ √ß√§ƒ∫≈Ñ√º Àô√¢√≠√Æ ƒõ√≠√ÆƒÉ√Æ ƒç√≠√¥√Æƒëƒõ≈ï√∂ƒçƒç ƒç, √§√Æ√´ƒá√≠√Æ √°≈±≈à√º, √Æ√≠≈ï √§√´Àô ƒô√ÆƒÉ√Æ-√≠ƒç√°√≥√§√º √Æ√∑ƒ∫√≠√º √¢≈ïƒá√≠≈ï ƒô≈ïƒôƒçƒõ-√≠ƒç√°√≥√§√º √Æ√°ƒë≈ï√ß√Æƒõ.}
 {30400}{}{TTG deck}
 {30401}{}{This is a deck for the Tragic The Garnering card game. Sounds like an expensive hobby to get caught up in.}
 {30500}{}{Yellow Reactor Clearance Card}
@@ -2044,7 +2044,7 @@
 {154500}{}{Mercenary Patch}
 {154501}{}{This is the trademark of the free mercenaries. Seeing such, you can be sure that these people will do any dirty work well for a lot of money. Your money.}
 {154600}{}{Rogue Mercenaries Poster}
-{154601}{}{This is a copy of an old propaganda poster showing a skull in a beret with a stripe of some kind of black bird of prey. The slogan reads: ìMercenaries Don't Die! They retreat to hell to regroup! î}
+{154601}{}{This is a copy of an old propaganda poster showing a skull in a beret with a stripe of some kind of black bird of prey. The slogan reads: ‚ÄúMercenaries Don't Die! They retreat to hell to regroup! ‚Äù}
 {154700}{}{Camera}
 {154701}{}{This is a camera. Say "Apocalypse".}
 {154800}{}{Antibiotics}
@@ -2515,7 +2515,7 @@
 {182700}{}{Knife}
 {182701}{}{Hunting knife.}
 {182800}{}{Steel Arc Furnace}
-{182801}{}{High tech equipment. When working, the thermal effect of an electric arc is used to melt metals and other materials. Chipboard temperatures can reach 1800 ∞ C.}
+{182801}{}{High tech equipment. When working, the thermal effect of an electric arc is used to melt metals and other materials. Chipboard temperatures can reach 1800 ¬∞ C.}
 {182900}{}{High-tech machine tool}
 {182901}{}{Machine for stamping complex electronics.}
 {183000}{}{Gas oven}
@@ -5763,160 +5763,160 @@
 
 {390500}{}{Playing card}
 {390501}{}{Two of the crosses.}
-{390502}{}{2ç}
+{390502}{}{2≈§}
 {390600}{}{Playing card}
 {390601}{}{Cross three.}
-{390602}{}{3ç}
+{390602}{}{3≈§}
 {390700}{}{Playing card}
 {390701}{}{Four crosses.}
-{390702}{}{4ç}
+{390702}{}{4≈§}
 {390800}{}{Playing card}
 {390801}{}{Cross five.}
-{390802}{}{5ç}
+{390802}{}{5≈§}
 {390900}{}{Playing card}
 {390901}{}{Six cross.}
-{390902}{}{6ç}
+{390902}{}{6≈§}
 {391000}{}{Playing card}
 {391001}{}{Cross seven.}
-{391002}{}{7ç}
+{391002}{}{7≈§}
 {391100}{}{Playing card}
 {391101}{}{Cross eight.}
-{391102}{}{8ç}
+{391102}{}{8≈§}
 {391200}{}{Playing card}
 {391201}{}{Cross Nine.}
-{391202}{}{9ç}
+{391202}{}{9≈§}
 {391300}{}{Playing card}
 {391301}{}{Ten christening.}
-{391302}{}{10ç}
+{391302}{}{10≈§}
 {391400}{}{Playing card}
 {391401}{}{Jack of the Cross.}
-{391402}{}{Jackç}
+{391402}{}{Jack≈§}
 {391500}{}{Playing card}
 {391501}{}{Lady baptize.}
-{391502}{}{Ladyç}
+{391502}{}{Lady≈§}
 {391600}{}{Playing card}
 {391601}{}{King of the Cross.}
-{391602}{}{Kingç}
+{391602}{}{King≈§}
 {391700}{}{Playing card}
 {391701}{}{Ace baptize.}
-{391702}{}{Aceç}
+{391702}{}{Ace≈§}
 {391800}{}{Playing card}
 {391801}{}{Two of Diamonds.}
-{391802}{}{2é}
+{391802}{}{2≈Ω}
 {391900}{}{Playing card}
 {391901}{}{Three of Diamonds.}
-{391902}{}{3é}
+{391902}{}{3≈Ω}
 {392000}{}{Playing card}
 {392001}{}{Four of diamonds.}
-{392002}{}{4é}
+{392002}{}{4≈Ω}
 {392100}{}{Playing card}
 {392101}{}{Five of Diamonds.}
-{392102}{}{5é}
+{392102}{}{5≈Ω}
 {392200}{}{Playing card}
 {392201}{}{Six of Diamonds.}
-{392202}{}{6é}
+{392202}{}{6≈Ω}
 {392300}{}{Playing card}
 {392301}{}{Seven of Diamonds.}
-{392302}{}{7é}
+{392302}{}{7≈Ω}
 {392400}{}{Playing card}
 {392401}{}{Eight of Diamonds.}
-{392402}{}{8é}
+{392402}{}{8≈Ω}
 {392500}{}{Playing card}
 {392501}{}{Nine of Diamonds.}
-{392502}{}{9é}
+{392502}{}{9≈Ω}
 {392600}{}{Playing card}
 {392601}{}{Ten of Diamonds.}
-{392602}{}{10é}
+{392602}{}{10≈Ω}
 {392700}{}{Playing card}
 {392701}{}{Jack of Diamonds.}
-{392702}{}{Jacké}
+{392702}{}{Jack≈Ω}
 {392800}{}{Playing card}
 {392801}{}{Queen of Diamonds.}
-{392802}{}{Ladyé}
+{392802}{}{Lady≈Ω}
 {392900}{}{Playing card}
 {392901}{}{King of Diamonds.}
-{392902}{}{Kingé}
+{392902}{}{King≈Ω}
 {393000}{}{Playing card}
 {393001}{}{Ace of Diamonds.}
-{393002}{}{Aceé}
+{393002}{}{Ace≈Ω}
 {393100}{}{Playing card}
 {393101}{}{Two of hearts.}
-{393102}{}{2è}
+{393102}{}{2≈π}
 {393200}{}{Playing card}
 {393201}{}{Three of hearts.}
-{393202}{}{3è}
+{393202}{}{3≈π}
 {393300}{}{Playing card}
 {393301}{}{Four hearts.}
-{393302}{}{4è}
+{393302}{}{4≈π}
 {393400}{}{Playing card}
 {393401}{}{Five hearts.}
-{393402}{}{5è}
+{393402}{}{5≈π}
 {393500}{}{Playing card}
 {393501}{}{Six hearts.}
-{393502}{}{6è}
+{393502}{}{6≈π}
 {393600}{}{Playing card}
 {393601}{}{Seven hearts.}
-{393602}{}{7è}
+{393602}{}{7≈π}
 {393700}{}{Playing card}
 {393701}{}{Eight hearts.}
-{393702}{}{8è}
+{393702}{}{8≈π}
 {393800}{}{Playing card}
 {393801}{}{Nine Hearts.}
-{393802}{}{9è}
+{393802}{}{9≈π}
 {393900}{}{Playing card}
 {393901}{}{Ten hearts.}
-{393902}{}{10è}
+{393902}{}{10≈π}
 {394000}{}{Playing card}
 {394001}{}{Jack of Hearts.}
-{394002}{}{Jackè}
+{394002}{}{Jack≈π}
 {394100}{}{Playing card}
 {394101}{}{Lady of Hearts.}
-{394102}{}{Ladyè}
+{394102}{}{Lady≈π}
 {394200}{}{Playing card}
 {394201}{}{King of Hearts.}
-{394202}{}{Kingè}
+{394202}{}{King≈π}
 {394300}{}{Playing card}
 {394301}{}{Ace of hearts.}
-{394302}{}{Aceè}
+{394302}{}{Ace≈π}
 {394400}{}{Playing card}
 {394401}{}{Two of spades.}
-{394402}{}{2ê}
+{394402}{}{2ÔøΩ}
 {394500}{}{Playing card}
 {394501}{}{Three of spades.}
-{394502}{}{3ê}
+{394502}{}{3ÔøΩ}
 {394600}{}{Playing card}
 {394601}{}{Four of spades.}
-{394602}{}{4ê}
+{394602}{}{4ÔøΩ}
 {394700}{}{Playing card}
 {394701}{}{Five of spades.}
-{394702}{}{5ê}
+{394702}{}{5ÔøΩ}
 {394800}{}{Playing card}
 {394801}{}{Six of spades.}
-{394802}{}{6ê}
+{394802}{}{6ÔøΩ}
 {394900}{}{Playing card}
 {394901}{}{Seven of spades.}
-{394902}{}{7ê}
+{394902}{}{7ÔøΩ}
 {395000}{}{Playing card}
 {395001}{}{Eight of spades.}
-{395002}{}{8ê}
+{395002}{}{8ÔøΩ}
 {395100}{}{Playing card}
 {395101}{}{Nine of spades.}
-{395102}{}{9ê}
+{395102}{}{9ÔøΩ}
 {395200}{}{Playing card}
 {395201}{}{Ten spades.}
-{395202}{}{10ê}
+{395202}{}{10ÔøΩ}
 {395300}{}{Playing card}
 {395301}{}{Jack of spades.}
-{395302}{}{Jackê}
+{395302}{}{JackÔøΩ}
 {395400}{}{Playing card}
 {395401}{}{Queen of spades.}
-{395402}{}{Ladyê}
+{395402}{}{LadyÔøΩ}
 {395500}{}{Playing card}
 {395501}{}{King of the spades.}
-{395502}{}{Kingê}
+{395502}{}{KingÔøΩ}
 {395600}{}{Playing card}
 {395601}{}{Ace of spades.}
-{395602}{}{Aceê}
+{395602}{}{AceÔøΩ}
 {395700}{}{Playing card}
 {395701}{}{Colored Joker.}
 {395702}{}{Colored Joker}
@@ -11321,7 +11321,7 @@ advantage}
 {1801300}{}{Growing Mutofung}
 {1801301}{}{Strange, slimy and smelly mold.}
 {1801400}{}{Mutofungus}
-{1801401}{}{Strangely shaped mushroom plucked. You donít think itís edible, but itís tempting to try ...}
+{1801401}{}{Strangely shaped mushroom plucked. You don‚Äôt think it‚Äôs edible, but it‚Äôs tempting to try ...}
 {1801500}{}{Praying Mantis Foot}
 {1801501}{}{Crispy praying mantis foot must make a delicious snack, you think.}
 {1801600}{}{Pre-war canned goods}
@@ -11626,7 +11626,7 @@ advantage}
 {2010301}{}{Post-war replica of the M4 assault rifle, an M16 rifle with a shortened barrel and a telescopic butt, equipped with 2x sights.}
 {2010400}{}{Automatic "Two"}
 {2010401}{}{Small machine gun, so named because of the two barrels. It is not very convenient to use because of its structure, but it looks extremely dignified.}
-{2010500}{}{Automatic machine Ã16¿1}
+{2010500}{}{Automatic machine ƒö16≈î1}
 {2010501}{}{Legendary assault rifle used since pre-war times. The stock and forend are made of polymer materials, which makes it very lightweight. Requires constant maintenance.}
 {2010600}{}{RG-6 grenade launcher}
 {2010601}{}{RG-6 hand grenade launcher. A rare example of Russian weapons thought. Compact, handy and deadly.}
